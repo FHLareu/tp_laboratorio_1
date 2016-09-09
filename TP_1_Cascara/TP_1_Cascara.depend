@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1473386851 source:c:\users\telefonica\desktop\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1473386997 source:c:\users\telefonica\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1473297966 c:\users\telefonica\desktop\tp_1_cascara\funciones.h
+
+1472649116 source:c:\users\alumno\desktop\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1472649359 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1472649192 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+
+1472604024 c:\users\alumno\desktop\tp_1_cascara\funciones.c
+
+1472649118 source:d:\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1472649194 d:\tp_1_cascara\funciones.h
+
+1472649448 source:d:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
