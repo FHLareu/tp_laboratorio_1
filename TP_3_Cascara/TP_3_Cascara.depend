@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476754522 source:c:\users\telefonica\desktop\trabajo practico 3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1477011608 source:c:\users\telefonica\desktop\trabajo practico 3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1477007562 c:\users\telefonica\desktop\trabajo practico 3\tp_3_cascara\funciones.h
+
