@@ -47,3 +47,35 @@
 
 1478816212 c:\users\telefonica\desktop\tp_4\menu.h
 
+1478828348 source:c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+
+1478468264 c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\arraylist.h
+
+1478828049 c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\estudiante.h
+	"ArrayList.h"
+
+1478816431 source:c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1478816212 c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\menu.h
+
+1478903017 source:c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1478903962 source:c:\users\telefonica\documents\github\tp_laboratorio_1\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+

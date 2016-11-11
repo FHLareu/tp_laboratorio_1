@@ -12,6 +12,7 @@ ArrayList* al_newArrayList(void)
     if(pList == NULL)
     {
         free(pList);
+        return NULL;
     }
 
     pList->size = 0;
@@ -20,6 +21,7 @@ ArrayList* al_newArrayList(void)
     if(pList->pElements == NULL)
     {
         free(pList);
+        return NULL;
     }
 
     pList->reservedSize = VALOR_INICIAL;
