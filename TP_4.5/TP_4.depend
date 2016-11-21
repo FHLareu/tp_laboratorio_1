@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1478902734 source:c:\users\telefonica\desktop\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1478816431 source:c:\users\telefonica\desktop\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1478468264 c:\users\telefonica\desktop\tp_4\arraylist.h
+
+1478828348 source:c:\users\telefonica\desktop\tp_4\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+
+1478828049 c:\users\telefonica\desktop\tp_4\estudiante.h
+	"ArrayList.h"
+
+1478485154 source:d:\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+
+1478468264 d:\tp_4\arraylist.h
+
+1478459430 d:\tp_4\estudiante.h
+
+1478460180 source:d:\tp_4\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+
+1478903017 source:c:\users\telefonica\desktop\tp_4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1478816212 c:\users\telefonica\desktop\tp_4\menu.h
+
+1478828350 source:e:\tp_4\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+
+1478468264 e:\tp_4\arraylist.h
+
+1478828050 e:\tp_4\estudiante.h
+	"ArrayList.h"
+
+1478816432 source:e:\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1478816214 e:\tp_4\menu.h
+
+1478903018 source:e:\tp_4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1479308692 source:e:\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1479678105 source:c:\users\telefonica\desktop\tp_4.5\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estudiante.h"
+
+1479596536 c:\users\telefonica\desktop\tp_4.5\arraylist.h
+
+1479679553 c:\users\telefonica\desktop\tp_4.5\estudiante.h
+	"ArrayList.h"
+
+1478816432 source:c:\users\telefonica\desktop\tp_4.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1478816214 c:\users\telefonica\desktop\tp_4.5\menu.h
+
+1479653930 source:c:\users\telefonica\desktop\tp_4.5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Estudiante.h"
+	"Menu.h"
+
+1479687588 source:c:\users\telefonica\desktop\tp_4.5\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
